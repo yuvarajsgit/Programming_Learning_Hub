@@ -5,7 +5,7 @@ A clean, structured web platform designed to streamline student registration and
 The platform offers an intuitive entryway for beginners to understand logical workflows and academic computer science domains before transitioning directly to study resources.
 
 ##  Live Links
-* **Repository Link:** [https://github.com/your-username/programming-learning-hub](https://github.com/yuvarajsgit/programming-learning-hub)
+* **Repository Link:** [https://github.com/yuvarajsgit/programming-learning-hub](https://github.com/yuvarajsgit/programming-learning-hub)
 
 ---
 
