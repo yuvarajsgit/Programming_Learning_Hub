@@ -4,13 +4,12 @@ A clean, structured web platform designed to streamline student registration and
 
 The platform offers an intuitive entryway for beginners to understand logical workflows and academic computer science domains before transitioning directly to study resources.
 
-## 🚀 Live Links
-* **Repository Link:** [https://github.com/your-username/programming-learning-hub](https://github.com/your-username/programming-learning-hub)
-* **Video Reference:** [YouTube Channel Track](https://www.youtube.com/watch?v=fmSnLiAv-zc&t=2s)
+##  Live Links
+* **Repository Link:** [https://github.com/your-username/programming-learning-hub](https://github.com/yuvarajsgit/programming-learning-hub)
 
 ---
 
-## 🛠️ Tech Stack & Features
+##  Tech Stack & Features
 
 * **Markup & Structure:** Semantic HTML5 (`index.html` and `registration.html`) modeling localized user onboarding routing.
 * **Layout Mechanics:** Structured multi-column informational mapping using HTML data matrix matrices (tables).
@@ -18,7 +17,7 @@ The platform offers an intuitive entryway for beginners to understand logical wo
 
 ---
 
-## 📂 Core Architecture & Page Breakdowns
+##  Core Architecture & Page Breakdowns
 
 ### 1. Home Dashboard (`index.html`)
 Serves as the information architecture hub, breaking down the essential conceptual blocks of software engine engineering.
@@ -39,10 +38,10 @@ An interactive intake form containing complete programmatic selection fields to 
 
 ---
 
-## 🔧 Installation & Local Preview
+##  Installation & Local Preview
 
 Because this project is built entirely using clean vanilla client-side structures, you do not need any external servers or package managers to run it locally.
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/your-username/programming-learning-hub.git](https://github.com/your-username/programming-learning-hub.git)
+   git clone [https://github.com/yuvarajsgit/programming-learning-hub.git](https://github.com/yuvarajsgit/programming-learning-hub.git)
