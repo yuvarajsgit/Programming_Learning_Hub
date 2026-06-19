@@ -5,7 +5,7 @@ A clean, structured web platform designed to streamline student registration and
 The platform offers an intuitive entryway for beginners to understand logical workflows and academic computer science domains before transitioning directly to study resources.
 
 ##  Live Links
-* **Repository Link:** [https://github.com/yuvarajsgit/programming-learning-hub](https://github.com/yuvarajsgit/programming-learning-hub)
+* **Repository Link:** [https://github.com/yuvarajsgit/programming_learning_hub](https://github.com/yuvarajsgit/programming_learning_hub)
 
 ---
 
@@ -44,4 +44,4 @@ Because this project is built entirely using clean vanilla client-side structure
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/yuvarajsgit/programming-learning-hub.git](https://github.com/yuvarajsgit/programming-learning-hub.git)
+   git clone [https://github.com/yuvarajsgit/programming_learning_hub.git](https://github.com/yuvarajsgit/programming_learning_hub.git)
